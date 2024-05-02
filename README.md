@@ -26,9 +26,9 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Ebook simples com apenas 6 slides para fazer uma introdução à Inteligência Artificial
 
 ## 🤖 Tecnologias Utilizadas
-Hero Creator </br>
-ChatGPT </br>
-Canva </br>
+Hero Creator
+ChatGPT
+Canva
 
 ## 🧐 Processo de Criação
 Utilizei o Hero Creator para criar os tópicos, o ChatGPT para fornecer os textos e o Canva para criação dos slides
