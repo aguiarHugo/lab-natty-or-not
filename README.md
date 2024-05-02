@@ -20,22 +20,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Desvende a Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook simples com apenas 6 slides para fazer uma introdução à Inteligência Artificial
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Hero Creator </br>
+ChatGPT </br>
+Canva </br>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Utilizei o Hero Creator para criar os tópicos, o ChatGPT para fornecer os textos e o Canva para criação dos slides
 ```
 
 ### Exemplos e Insigths
